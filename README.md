@@ -4,15 +4,12 @@
 
 
 
-### UPDATE TERLEBIH DAHULU
 
-
-
-### UPDATE REPO DEBIAN
+### UPDATE UNTUK DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
 
 
-### UPDATE REPO UBUNTU
+### UPDATE UNTUK UBUNTU
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
 
@@ -48,9 +45,14 @@
 ### Author
 ```
 ```
-Auto - FT - Tunnel :
+CONTACT YOU ARE FREE TUNNEL ⬇️⬇️
 
 <a href="https://t.me/supra_store31" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
+
+CONTACT YINN STORE TUNNEL ⬇️⬇️
+
+<a href="https://t.me/YinnVpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 ```
 ```
 ``
